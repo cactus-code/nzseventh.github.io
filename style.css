@@ -1,6 +1,11 @@
 .twitter-timeline {
   height:500px;
-  width:33%;
+  width:30%;
+}
+
+#twitter-timeline {
+  height:500px;
+  width:30%;
 }
 
 h1 {
