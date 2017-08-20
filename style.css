@@ -2,3 +2,11 @@
   height:500px;
   width:33%;
 }
+
+h1 {
+    font-family: Verdana, sans-serif;
+}
+
+.category {
+    font-family: Arial, sans-serif;
+}
