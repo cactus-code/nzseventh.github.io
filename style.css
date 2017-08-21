@@ -1,8 +1,12 @@
 img {
     height: 200px;
     width: 100%;
+}
+
+.top_banner {
     border: #000000 3px outset;
 }
+
 h1 {
     font-family: Verdana, sans-serif;
 }
