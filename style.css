@@ -10,3 +10,7 @@ h1 {
 .category {
     font-family: Arial, sans-serif;
 }
+
+.category h2 a {
+    color: inherit;
+}
