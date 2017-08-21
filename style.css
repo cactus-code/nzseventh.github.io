@@ -1,13 +1,8 @@
-.twitter-timeline {
-  height:500px;
-  width:30%;
+.banner_photo {
+    height: 200px
+    width: 100% 
+    border: #000000 3px outset
 }
-
-#twitter-timeline {
-  height:500px;
-  width:30%;
-}
-
 h1 {
     font-family: Verdana, sans-serif;
 }
