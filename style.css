@@ -8,14 +8,9 @@ img {
 }
 
 .banner_button {
-    display: inline-block;
     background-color: #991616;
     margin: 20px;
     height: 25px;
-}
-
-.banner_button h2 {
-    display: inline-block;
 }
 
 h1 {
