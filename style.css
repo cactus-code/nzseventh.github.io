@@ -7,6 +7,10 @@ img {
     border: #000000 3px outset;
 }
 
+#banner_buttons {
+    text-align: center;
+}
+
 .banner_button {
     display: inline-block;
     background-color: #991616;
