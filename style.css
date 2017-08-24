@@ -20,9 +20,8 @@ img {
     border: 2px solid #000000;
 }
 
-.satire_button h2 {
+.satire_button a h2 {
     margin: 5px;
-    color: #000000;
 }
 
 .banner_button {
@@ -34,7 +33,7 @@ img {
     border: 2px solid #000000;
 }
 
-.banner_button h2 {
+.banner_button a h2 {
     margin: 5px;
     color: #ffffff;
 }
