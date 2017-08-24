@@ -11,11 +11,11 @@ img {
     display: inline-block;
     background-color: #991616;
     margin: 20px;
-    height: 50px;
+    text-align: center;
 }
 
-.banner_button {
-    text-align: center;
+.banner_button h2 {
+    margin: 5px;
 }
 
 h1 {
