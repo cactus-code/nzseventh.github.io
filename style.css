@@ -11,6 +11,19 @@ img {
     text-align: center;
 }
 
+.satire_button {
+    display: inline-block;
+    background-color: #ff0000;
+    margin: 20px;
+    margin-right: 0px;
+    text-align: center;
+    border: 2px solid #000000;
+}
+
+.satire_button h2 {
+    margin: 5px;
+}
+
 .banner_button {
     display: inline-block;
     background-color: #991616;
