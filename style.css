@@ -27,6 +27,7 @@ body {
     font-family: Arial, sans-serif;
 }
 
-.category h2 a {
+a {
+    text-decoration: none;
     color: inherit;
 }
