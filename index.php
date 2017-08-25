@@ -8,6 +8,9 @@
   if(isMobile()){
     header("Location: http://www.nzseventh.tk/mobile/index.html");
   }
+  else {
+    header("Location: http://www.nzseventh.tk/");
+  }
   ?>
   <base href="http://www.nzseventh.tk/">
   <link rel="stylesheet" type="text/css" href="style.css">
