@@ -12,6 +12,7 @@
   }
   if(isMobile()){
     header("Location: http://www.nzseventh.tk/mobile/index.html");
+    die();
   }
   ?>
   <div class="top_banner">
