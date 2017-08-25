@@ -6,15 +6,6 @@
   <title>NZ Seventh - Home</title>
 </head>
 <body>
-  <?php
-  function isMobile() {
-    return preg_match("/(android|avantgo|blackberry|bolt|boost|cricket|docomo|fone|hiptop|mini|mobi|palm|phone|pie|tablet|up\.browser|up\.link|webos|wos)/i", $_SERVER["HTTP_USER_AGENT"]);
-  }
-  if(isMobile()){
-    header("Location: http://www.nzseventh.tk/mobile/index.html");
-    die();
-  }
-  ?>
   <div class="top_banner">
     <img id="banner_photo" src="nzseventhbanner.svg" alt="Banner here">
     <div id="banner_buttons">
