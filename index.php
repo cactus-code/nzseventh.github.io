@@ -1,6 +1,11 @@
 <!DOCTYPE HTML>
 <html>
 <head>
+  <base href="http://www.nzseventh.tk/">
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <title>NZ Seventh - Home</title>
+</head>
+<body>
   <?php
   function isMobile() {
     return preg_match("/(android|avantgo|blackberry|bolt|boost|cricket|docomo|fone|hiptop|mini|mobi|palm|phone|pie|tablet|up\.browser|up\.link|webos|wos)/i", $_SERVER["HTTP_USER_AGENT"]);
@@ -8,15 +13,7 @@
   if(isMobile()){
     header("Location: http://www.nzseventh.tk/mobile/index.html");
   }
-  else {
-    header("Location: http://www.nzseventh.tk/");
-  }
   ?>
-  <base href="http://www.nzseventh.tk/">
-  <link rel="stylesheet" type="text/css" href="style.css">
-  <title>NZ Seventh - Home</title>
-</head>
-<body>
   <div class="top_banner">
     <img id="banner_photo" src="nzseventhbanner.svg" alt="Banner here">
     <div id="banner_buttons">
