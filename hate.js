@@ -27,8 +27,7 @@ var figures = [
   "The News",
   "Mainstream Media"]
   var figure;
-setInterval(function(){
+function(){
   figure = figures[Math.floor(Math.random() * figures.length)];
   directive.innerHTML = "At the moment, you hate " + figure;
-},
-3000);
+}
