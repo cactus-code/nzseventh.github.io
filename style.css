@@ -3,6 +3,10 @@ img {
     width: 100%;
 }
 
+.content {
+    padding-top: 400px;
+}
+
 .top_banner {
     border: #000000 3px outset;
     position: fixed;
