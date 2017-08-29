@@ -8,6 +8,10 @@ img {
     width: 100%;
 }
 
+.content {
+    padding-top: 50px;
+}
+
 #banner_buttons {
     text-align: center;
 }
