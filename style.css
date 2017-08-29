@@ -6,6 +6,7 @@ img {
 .top_banner {
     border: #000000 3px outset;
     width: 100%;
+    background-color: #ffffff;
 }
 
 .content {
@@ -14,6 +15,7 @@ img {
 
 #banner_buttons {
     text-align: center;
+    position: fixed;
 }
 
 .satire_button {
