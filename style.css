@@ -5,6 +5,7 @@ img {
 
 .top_banner {
     border: #000000 3px outset;
+    position: fixed;
 }
 
 #banner_buttons {
