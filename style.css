@@ -20,6 +20,7 @@ img {
     margin-right: 0px;
     text-align: center;
     border: 2px solid #000000;
+    position: static;
 }
 
 .satire_button a h2 {
@@ -33,6 +34,7 @@ img {
     margin-right: 0px;
     text-align: center;
     border: 2px solid #000000;
+    position: static;
 }
 
 .banner_button a h2 {
