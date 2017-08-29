@@ -25,6 +25,8 @@ img {
 
 .satire_button a h2 {
     margin: 5px;
+    text-decoration: none;
+    color: inherit;
 }
 
 .banner_button {
@@ -40,6 +42,8 @@ img {
 .banner_button a h2 {
     margin: 5px;
     color: #ffffff;
+    text-decoration: none;
+    color: inherit;
 }
 
 h1 {
@@ -48,9 +52,4 @@ h1 {
 
 body {
     font-family: Arial, sans-serif;
-}
-
-a {
-    text-decoration: none;
-    color: inherit;
 }
